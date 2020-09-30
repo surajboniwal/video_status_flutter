@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "192564414264",
+    "firebase_url": "https://fluttervideostatus.firebaseio.com",
+    "project_id": "fluttervideostatus",
+    "storage_bucket": "fluttervideostatus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192564414264:android:f1284b2a90275acb06e3cd",
+        "android_client_info": {
+          "package_name": "com.example.video_status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192564414264-fa6du4r3m9k91pab8uaj6iv2f2jvghof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.video_status",
+            "certificate_hash": "f1d4879eb55f9d5680a33e29f410628cb3ff878c"
+          }
+        },
+        {
+          "client_id": "192564414264-pibt1jb70ik4dks5t5h32ibblnq4et50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-1UwcQy8UrKTfvzHK4w5eajjakvf3d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192564414264-pibt1jb70ik4dks5t5h32ibblnq4et50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
